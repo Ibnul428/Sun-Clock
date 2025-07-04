@@ -12,4 +12,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Sun-Clock.git
+   git clone https://github.com/Ibnul428/Sun-Clock.git
